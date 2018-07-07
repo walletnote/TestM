@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         // this is kalyan branch
 
-        // kalyan new comment
+        // kalyan new comment // new conflict
     }
 }
